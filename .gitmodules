@@ -1,0 +1,36 @@
+[submodule "epson-inkjet-printer-escpr"]
+	path = epson-inkjet-printer-escpr
+	url = https://aur.archlinux.org/epson-inkjet-printer-escpr.git
+[submodule "fswatch"]
+	path = fswatch
+	url = https://aur.archlinux.org/fswatch.git
+[submodule "gcalcli"]
+	path = gcalcli
+	url = https://aur.archlinux.org/gcalcli.git
+[submodule "google-chrome"]
+	path = google-chrome
+	url = https://aur.archlinux.org/google-chrome.git
+[submodule "gscreenshot"]
+	path = gscreenshot
+	url = https://aur.archlinux.org/gscreenshot.git
+[submodule "mongodb-bin"]
+	path = mongodb-bin
+	url = https://aur.archlinux.org/mongodb-bin.git
+[submodule "ngrok"]
+	path = ngrok
+	url = https://aur.archlinux.org/ngrok.git
+[submodule "nvm"]
+	path = nvm
+	url = https://aur.archlinux.org/nvm.git
+[submodule "slack-desktop"]
+	path = slack-desktop
+	url = https://aur.archlinux.org/slack-desktop.git
+[submodule "st"]
+	path = st
+	url = https://aur.archlinux.org/st.git
+[submodule "urlview"]
+	path = urlview
+	url = https://aur.archlinux.org/urlview.git
+[submodule "zsa-wally-cli"]
+	path = zsa-wally-cli
+	url = https://aur.archlinux.org/zsa-wally-cli.git
