@@ -34,3 +34,6 @@
 [submodule "zsa-wally-cli"]
 	path = zsa-wally-cli
 	url = https://aur.archlinux.org/zsa-wally-cli.git
+[submodule "zoom"]
+	path = zoom
+	url = https://aur.archlinux.org/zoom.git
